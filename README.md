@@ -1,5 +1,5 @@
 # actividadGrupal2
-Caelos Gabriel Nogueira
+Carlos Gabriel Nogueira
 Jorge Jonathan Gelabert
 Juan Edward
 
